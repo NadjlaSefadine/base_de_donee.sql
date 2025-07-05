@@ -15,8 +15,7 @@ Le système permet de :
 ## Schéma conceptuel
 
 # Le modèle conceptuel de données (MCD) comprend les entités suivantes :
-![Capture d’écran du 2025-07-05 14-00-09](https://github.com/user-attachments/assets/9fc3b425-20a0-49c0-8232-f8253e117189)
-
+![mcd ombre d'afrique drawio](https://github.com/user-attachments/assets/ba44aab9-2c08-4616-93c8-b06eeb6e865e)
 - Personnel
 - Plat
 - Ingrédient
